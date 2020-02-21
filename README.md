@@ -1,2 +1,2 @@
 # Python_sample
-WF-code
+wf_detection_code
